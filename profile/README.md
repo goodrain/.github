@@ -18,25 +18,15 @@ Rainbond is a cloud native multi cloud application management platform, which is
 🚀 Rainbond [quick installation](https://www.rainbond.com/docs/quick-start/quick-install/).  
 💻 Rainbond [getting started](https://www.rainbond.com/docs/quick-start/getting-started/).
 
-## Community
+## Community Group
 
-If you have trouble using Rainbond and need help, Please ref [community support](https://www.rainbond.com/en/community/support/).
-
-Slack: [Rainbond Slack Channel](https://join.slack.com/t/rainbond-slack/shared_invite/zt-1ft4g75pg-KJ0h_IAtvG9DMgeE_BNjZQ)
-
-Or add WeChat assistant to join the Rainbond wechat group:
+[Join Slack](https://join.slack.com/t/rainbond-slack/shared_invite/zt-1ft4g75pg-KJ0h_IAtvG9DMgeE_BNjZQ) or wechat group:
 
 <img width="300px" src="https://static.goodrain.com/wechat/weChat.jpg"/>
 
-### Contributing
+## All repositories
 
-We very much welcome you to participate in the contribution and sharing of platform experience, standardized applications, plug-in sharing and other fields in the rainbond community.
-
-If you are a user who is using Rainbond, and you have a deep understanding of rainbond and agree with the technical route, and there is a great demand within your enterprise, we welcome you to [Participate in project contributions](https://www.rainbond.com/en/community/contribution/)
-
-## Related repositories
-
-At present, the warehouse is the implementation code of the core service at the end of rainbond data center. The project also includes the following sub projects：
+Rainbond consists of several subprojects, as follows:
 
 - [Rainbond](https://github.com/goodrain/rainbond) Rainbond main repository, Core service project.
 - [Rainbond-Console](https://github.com/goodrain/rainbond-console) Rainbond Console service project.
