@@ -11,7 +11,7 @@
 
 ## What is Rainbond ?
 
-Rainbond is a cloud native multi cloud application management platform, which is easy to use and does not need to understand containers, kubernetes and underlying complex technologies. It supports the management of multiple kubernetes clusters and the management of the whole life cycle of enterprise applications. The main functions include application development environment, application market, micro service architecture, application delivery, application operation and maintenance, application level multi cloud management, etc.
+Rainbond is a cloud native multi cloud application management platform, which is easy to use and does not need to understand containers, kubernetes and underlying complex technologies. It supports the management of multiple kubernetes clusters and the management of the whole life cycle of enterprise applications. 
 
 ## Quickstart
 
@@ -38,12 +38,13 @@ If you are a user who is using Rainbond, and you have a deep understanding of ra
 
 At present, the warehouse is the implementation code of the core service at the end of rainbond data center. The project also includes the following sub projects：
 
-- [Rainbond-Console](https://github.com/goodrain/rainbond-console) Rainbond Console server project
-- [Rainbond-Console-UI](https://github.com/goodrain/rainbond-ui) Rainbond Console front end project
-- [Rainbond-Operator](https://github.com/goodrain/rainbond-operator) Rainbond Installation, operation and maintenance project
-- [Rainbond-Cloud-adaptor](https://github.com/goodrain/cloud-adaptor) Rainbond Cluster installation driver service
-- [Rainbond-Builder](https://github.com/goodrain/builder) Rainbond Source code construction Toolset
-- [Rainbond-Docs](https://github.com/goodrain/rainbond-docs) Rainbond Documentation
+- [Rainbond](https://github.com/goodrain/rainbond) Rainbond main repository, Core service project.
+- [Rainbond-Console](https://github.com/goodrain/rainbond-console) Rainbond Console service project.
+- [Rainbond-Console-UI](https://github.com/goodrain/rainbond-ui) Rainbond Console front end project.
+- [Rainbond-Operator](https://github.com/goodrain/rainbond-operator) Rainbond Installation, operation and maintenance project.
+- [Rainbond-Cloud-adaptor](https://github.com/goodrain/cloud-adaptor) Rainbond Cluster installation driver service.
+- [Rainbond-Builder](https://github.com/goodrain/builder) Rainbond Source code construction Toolset.
+- [Rainbond-Docs](https://github.com/goodrain/rainbond-docs) Rainbond Documentation.
 
 ## Contributors
 
