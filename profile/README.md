@@ -20,7 +20,7 @@ Rainbond is a cloud native multi cloud application management platform, which is
 
 ## Community Group
 
-[Join Slack](https://join.slack.com/t/rainbond-slack/shared_invite/zt-1ft4g75pg-KJ0h_IAtvG9DMgeE_BNjZQ) or wechat group:
+Join [Slack](https://join.slack.com/t/rainbond-slack/shared_invite/zt-1ft4g75pg-KJ0h_IAtvG9DMgeE_BNjZQ) or wechat group:
 
 <img width="300px" src="https://static.goodrain.com/wechat/weChat.jpg"/>
 
@@ -28,13 +28,13 @@ Rainbond is a cloud native multi cloud application management platform, which is
 
 Rainbond consists of several subprojects, as follows:
 
-- [Rainbond](https://github.com/goodrain/rainbond) Rainbond main repository, Core service project.
-- [Rainbond-Console](https://github.com/goodrain/rainbond-console) Rainbond Console service project.
-- [Rainbond-Console-UI](https://github.com/goodrain/rainbond-ui) Rainbond Console front end project.
-- [Rainbond-Operator](https://github.com/goodrain/rainbond-operator) Rainbond Installation, operation and maintenance project.
-- [Rainbond-Cloud-adaptor](https://github.com/goodrain/cloud-adaptor) Rainbond Cluster installation driver service.
-- [Rainbond-Builder](https://github.com/goodrain/builder) Rainbond Source code construction Toolset.
-- [Rainbond-Docs](https://github.com/goodrain/rainbond-docs) Rainbond Documentation.
+- [rainbond](https://github.com/goodrain/rainbond) is main repository, Core service.
+- [rainbond-console](https://github.com/goodrain/rainbond-console) is console backend service.
+- [rainbond-ui](https://github.com/goodrain/rainbond-ui) is console frontend service.
+- [rainbond-operator](https://github.com/goodrain/rainbond-operator) is cluster controller.
+- [cloud-adaptor](https://github.com/goodrain/cloud-adaptor) is Rainbond cluster installation driver service.
+- [builder](https://github.com/goodrain/builder) is Rainbond source code build service.
+- [rainbond-docs](https://github.com/goodrain/rainbond-docs) is Rainbond documentation.
 
 ## Contributors
 
