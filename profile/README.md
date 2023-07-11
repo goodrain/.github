@@ -5,7 +5,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/goodrain/rainbond.svg?style=flat-square)](https://github.com/goodrain/rainbond/stargazers)
 ![Rainbond version](https://img.shields.io/badge/version-v5.X-brightgreen.svg)
 
-<h3>不用懂 Kubernetes 的云原生应用管理平台</h3>
+<h3>No need to know Kubernetes' cloud native application management platform</h3>
 
 [Website](https://www.rainbond.com) • [Documentation](https://www.rainbond.com/docs)
 
