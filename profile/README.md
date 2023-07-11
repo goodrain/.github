@@ -5,13 +5,15 @@
 [![GitHub stars](https://img.shields.io/github/stars/goodrain/rainbond.svg?style=flat-square)](https://github.com/goodrain/rainbond/stargazers)
 ![Rainbond version](https://img.shields.io/badge/version-v5.X-brightgreen.svg)
 
+<h3>不用懂 Kubernetes 的云原生应用管理平台</h3>
+
 [Website](https://www.rainbond.com) • [Documentation](https://www.rainbond.com/docs)
-  
+
 </div>
 
 ## What is Rainbond ?
 
-Rainbond is a cloud native multi cloud application management platform, which is easy to use and does not need to understand containers, kubernetes and underlying complex technologies. It supports the management of multiple kubernetes clusters and the management of the whole life cycle of enterprise applications. 
+Rainbond core 100% open source, Serverless experience, support docking and management of a variety of Kubernetes clusters, is first domestic support for the localization Xinchuang and an all-in-one application management platform for private deployments.
 
 ## Quickstart
 
