@@ -40,18 +40,7 @@ Rainbond consists of several subprojects, as follows:
 
 ## Contributors
 
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tbody>
-    <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://inative.io"><img src="https://avatars.githubusercontent.com/u/39754275?v=4?s=100" width="100px;" alt="Qi Zhang"/><br /><sub><b>Qi Zhang</b></sub></a><br /><a href="#code-zzzhangqi" title="Code">💻</a></td>
-    </tr>
-  </tbody>
-</table>
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
+Thank y'all!
+<a href="https://github.com/goodrain/rainbond/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=goodrain/rainbond" />
+</a>
