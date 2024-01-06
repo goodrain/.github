@@ -3,5 +3,19 @@
   "projectOwner": "goodrain",
   "files": [
     "profile/README.md"
-  ]  
+  ],
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributorsPerLine": 7,
+  "contributors": [
+    {
+      "login": "zzzhangqi",
+      "name": "Qi Zhang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/39754275?v=4",
+      "profile": "https://inative.io",
+      "contributions": [
+        "code"
+      ]
+    }
+  ]
 }
