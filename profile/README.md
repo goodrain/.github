@@ -41,6 +41,7 @@ Rainbond consists of several subprojects, as follows:
 ## Contributors
 
 Thank y'all!
+
 <a href="https://github.com/goodrain/rainbond/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=goodrain/rainbond" />
 </a>
