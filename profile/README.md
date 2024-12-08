@@ -34,7 +34,6 @@ Rainbond consists of several subprojects, as follows:
 - [rainbond-console](https://github.com/goodrain/rainbond-console) is console backend service.
 - [rainbond-ui](https://github.com/goodrain/rainbond-ui) is console frontend service.
 - [rainbond-operator](https://github.com/goodrain/rainbond-operator) is cluster controller.
-- [cloud-adaptor](https://github.com/goodrain/cloud-adaptor) is Rainbond cluster installation driver service.
 - [builder](https://github.com/goodrain/builder) is Rainbond source code build service.
 - [rainbond-docs](https://github.com/goodrain/rainbond-docs) is Rainbond documentation.
 
