@@ -3,7 +3,7 @@
 <img src="https://static.goodrain.com/logo/logo-long.png" width="50%">
 
 [![GitHub stars](https://img.shields.io/github/stars/goodrain/rainbond.svg?style=flat-square)](https://github.com/goodrain/rainbond/stargazers)
-![Rainbond version](https://img.shields.io/badge/version-v5.X-brightgreen.svg)
+![Rainbond version](https://img.shields.io/badge/version-v6.x-brightgreen.svg)
 
 <h3>No need to know Kubernetes' cloud native application management platform</h3>
 
@@ -22,7 +22,7 @@ Rainbond core 100% open source, Serverless experience, support docking and manag
 
 ## Community Group
 
-Join [Slack](https://join.slack.com/t/rainbond-slack/shared_invite/zt-1ft4g75pg-KJ0h_IAtvG9DMgeE_BNjZQ) or wechat group:
+Join Wechat Group:
 
 <img width="300px" src="https://static.goodrain.com/wechat/weChat.jpg"/>
 
@@ -36,11 +36,3 @@ Rainbond consists of several subprojects, as follows:
 - [rainbond-operator](https://github.com/goodrain/rainbond-operator) is cluster controller.
 - [builder](https://github.com/goodrain/builder) is Rainbond source code build service.
 - [rainbond-docs](https://github.com/goodrain/rainbond-docs) is Rainbond documentation.
-
-## Contributors
-
-Thank y'all!
-
-<a href="https://github.com/goodrain/rainbond/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=goodrain/rainbond" />
-</a>
