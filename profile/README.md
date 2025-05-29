@@ -24,7 +24,7 @@ Rainbond core 100% open source, Serverless experience, support docking and manag
 
 Join Wechat Group:
 
-<img width="300px" src="https://static.goodrain.com/wechat/weChat.jpg"/>
+<img width="300px" src="wechatgroup.png"/>
 
 ## All repositories
 
