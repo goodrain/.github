@@ -1,12 +1,8 @@
 <div align="center">
   <img src="https://static.goodrain.com/logo/logo-long.png" width="60%">
   
-  [![Rainbond](https://jaywcjlove.github.io/sb/lang/chinese.svg)](README-zh.md)
   [![GitHub stars](https://img.shields.io/github/stars/goodrain/rainbond.svg?style=flat-square)](https://github.com/goodrain/rainbond/stargazers)
   ![Rainbond version](https://img.shields.io/badge/version-v6.X-brightgreen.svg)
-  [![GoDoc](https://godoc.org/github.com/goodrain/rainbond?status.svg)](https://godoc.org/github.com/goodrain/rainbond)
-  <a href="https://twitter.com/intent/follow?screen_name=Rainbond_"><img src="https://img.shields.io/twitter/follow/Rainbond?style=social" alt="follow on Twitter"></a>
-  <a href="https://join.slack.com/t/rainbond-slack/shared_invite/zt-1ft4g75pg-KJ0h_IAtvG9DMgeE_BNjZQ"><img src="https://img.shields.io/badge/Slack-blueviolet?logo=slack&amp;logoColor=white"></a>
   <a href="https://discord.com/invite/czusNpcymS">
     <img src="https://img.shields.io/badge/Discord-Join-5865F2?style=flat-square&logo=discord" alt="Discord">
   </a>
